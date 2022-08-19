@@ -1,0 +1,10 @@
+{
+	"configurations": [
+		{
+			"type": "pwa-chrome",
+			"name": "https://Chris-Quisling.github.io/Q",
+			"request": "launch",
+			"url": "https://Chris-Quisling.github.io/Q"
+		}
+	]
+}
